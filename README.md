@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Ilya
 
-<!--
-**ilyaborzyh666-lang/ilyaborzyh666-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack Developer from Israel 🇮🇱
 
-Here are some ideas to get you started:
+I build apps focused on fitness, productivity, and AI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Projects
+
+### 💪 FitLogic
+Workout planner with smart progression and workout tracking.
+
+### 📅 Work Scheduler
+Task and employee scheduling system.
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- FastAPI
+- React
+- PostgreSQL
+- Supabase
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Mobile development
+- System design
+- AI agents
+- Backend architecture
+
+---
+
+## 📈 Goals
+
+- Build production-ready apps
+- Launch my own startup
+- Improve fullstack skills daily
+
+---
+
+## 📫 Contact
+- Email: ilyaborzyh666@gmail.com
