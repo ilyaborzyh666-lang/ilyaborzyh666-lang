@@ -1,48 +1,35 @@
 # 👋 Hi, I'm Ilya
 
-### Fullstack Developer from Israel 🇮🇱
-
-I build apps focused on fitness, productivity, and AI tools.
+### Fullstack Developer · Tel Aviv 🇮🇱
+Building production-ready apps with Python, TypeScript, and FastAPI.
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects
+
+### 🐕 Dogivo — Dog Walking Marketplace
+Marketplace connecting dog owners with walkers.
+Real-time GPS tracking, Stripe payments, booking system.
+`FastAPI` `PostgreSQL` `TypeScript` `WebSocket` `Stripe` `Docker`
+
+### 📅 Work Scheduler — [Live Demo](https://work-scheduler-three.vercel.app)
+Healthcare shift management platform. Role-based access (5 roles),
+real-time notifications, bilingual (Hebrew/English), leave approval flows.
+`React Native` `TypeScript` `FastAPI` `Firebase` `Expo`
 
 ### 💪 FitLogic
-Workout planner with smart progression and workout tracking.
-
-### 📅 Work Scheduler
-Task and employee scheduling system.
+REST API for workout tracking with smart progression logic.
+`FastAPI` `PostgreSQL` `Python` `JWT Auth` `Alembic`
 
 ---
 
 ## 🛠 Tech Stack
-
-- Python
-- FastAPI
-- React
-- PostgreSQL
-- Supabase
-- Git & GitHub
-
----
-
-## 📚 Currently Learning
-
-- Mobile development
-- System design
-- AI agents
-- Backend architecture
-
----
-
-## 📈 Goals
-
-- Build production-ready apps
-- Launch my own startup
-- Improve fullstack skills daily
+**Frontend:** React Native · TypeScript · Expo  
+**Backend:** Python · FastAPI  
+**DB:** PostgreSQL · Firebase Firestore  
+**Infra:** Docker · Vercel · Stripe · WebSocket
 
 ---
 
 ## 📫 Contact
-- Email: ilyaborzyh666@gmail.com
+ilyaborzyh666@gmail.com
