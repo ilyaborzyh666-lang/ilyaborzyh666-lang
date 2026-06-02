@@ -7,7 +7,7 @@ Building production-ready apps with Python, TypeScript, and FastAPI.
 
 ## 🚀 Projects
 
-### 🐕 Dogivo — Dog Walking Marketplace
+### 🐕 Dogivo — Dog Walking Marketplace — [Live Demo](https://dogivo-cacc9.web.app)
 Marketplace connecting dog owners with walkers.
 Real-time GPS tracking, Stripe payments, booking system.
 `FastAPI` `PostgreSQL` `TypeScript` `WebSocket` `Stripe` `Docker`
