@@ -33,3 +33,5 @@ REST API for workout tracking with smart progression logic.
 
 ## 📫 Contact
 ilyaborzyh666@gmail.com
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ilyaborzyh666-lang&show_icons=true&theme=radical)
